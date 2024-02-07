@@ -16,7 +16,6 @@ a {
 a:hover {
     color: darkcyan;
     text-decoration: none;
-
 }
 
 #container {
@@ -25,7 +24,9 @@ a:hover {
     margin: 20px auto;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     text-align: center;
     color:crimson;
 }
@@ -59,6 +60,7 @@ nav li a:hover {
 
 header h1 {
     font-size: 100px;
+    color: turquoise;
     text-shadow: 5px 5px 5px black;
 }
 
@@ -75,10 +77,11 @@ main {
 }
 
 .col {
-    padding: 50px;
+    padding: 10px;
     margin: 10px;
     border: 2px solid royalblue;
-    width: 33.33%
+    width: 33.3%;
+    border-radius: 10px
 }
 
 footer {
@@ -111,6 +114,8 @@ hr {
 
 #vprop {
     display: flex;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .vpropcover {
