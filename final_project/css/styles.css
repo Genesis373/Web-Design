@@ -50,14 +50,13 @@ a:hover {
 .button {
     display: block;
     background-color: darkslategray;
-    width: 160px;
+    width: 190px;
     height: 40px;
     color: white;
     text-decoration: none;
     text-align: center;
     line-height: 30px;
-    margin-bottom: 10px;
-    border-radius: 5px;;
+    margin-bottom: 10px; 
     margin-left: auto;
     margin-right: auto;
     border: 2px solid black;
@@ -182,21 +181,6 @@ footer {
         width: 20%;
         border-radius: 15px;
         margin: 0 auto;
-    }
-    
-    .button {
-        display: block;
-        background-color: darkslategray;
-        width: 170px;
-        height: 40px;
-        color: white;
-        text-decoration: none;
-        text-align: center;
-        line-height: 30px;
-        margin-bottom: 10px;
-        border-radius: 5px;;
-        margin-left: auto;
-        margin-right: auto;
     }
     
     .button:hover {
