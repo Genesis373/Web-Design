@@ -16,7 +16,7 @@ body {
     padding: 20px;
     width: 70%;
     margin: 20px auto;
-    border: 10px soild dimgray;
+    border: 10px solid dimgray;
 }
 
 h1, h2, h3 {
@@ -148,7 +148,7 @@ footer {
     }
 
     h1 {
-        font-size: 75;
+        font-size: 75px;
     }
 
     #lower {
